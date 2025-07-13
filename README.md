@@ -7,6 +7,8 @@
  - [Starting Server](#4-zookeeper-kafka-producer-consumer)
  - [Querying](#5-realtime-data-querying-aws-athena)
  - [Storage](#6-storing-files-in-aws-s3-bucket)
+ - [AWS Services Used](#7-aws-services-used)
+ - [Note](#8-note)
    
 
 ## 1. Flow
@@ -31,9 +33,11 @@ link: https://app.eraser.io/workspace/ICu4keBkFuCr5qwH991S
 ## 6. Storing files in AWS S3 Bucket
 <img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/11674359-8585-4984-9f01-227924b9e694" />
 
+## 7. AWS Services Used
+<img width="778" height="371" alt="image" src="https://github.com/user-attachments/assets/55e5a20d-c9fc-4909-bccf-5cc766705a39" />
 
 
-Note:
+### 8. Note:
 1. The Result of Query is Stored in another S3 Bucket.
 2. The Commands for activating servers are present in this repo.
 3. ipynb file for programatically producing and consuming is also there in this repo.
